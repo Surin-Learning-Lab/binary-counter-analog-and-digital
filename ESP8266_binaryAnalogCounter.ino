@@ -5,8 +5,8 @@
 #include <SevSeg.h>
 
 // WiFi settings
-const char* ssid = "Surinlearninglab-2.4G";
-const char* password = "SurinLL2023";
+const char* ssid = "************";
+const char* password = "*********";
 
 // Create web server on port 80
 ESP8266WebServer server(80);
